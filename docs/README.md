@@ -3,13 +3,25 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © 2023 Khozhainov"
+footer: "ECL 2.0 Licensed | Copyright © 2023 Скляр Антон"
 ---
 
 
-**Виконав(-ла):** 
+**Виконали:** 
 
-*студент 2-го курсу, групи ІМ-21*<span padding-right:5em></span> **Микола ХОЖАЇНОВ** [Пошта: kolyakhozhajinov@gmail.com, [Телеграм](https://t.me/Ilonovay)]
+*студент 2-го курсу, групи ІО-23*<span padding-right:5em></span> **Скляр Антон** [Пошта: 80kap.i.toshka@gmail.com, [Телеграм](https://t.me/Antntipo)]
+
+*студент 2-го курсу, групи ІО-23*<span padding-right:5em></span> **Мороз Даниїл** [Пошта: imdanya946@gmail.com, [Телеграм](https://t.me/danya946)]
+
+*студентка 2-го курсу, групи ІО-23*<span padding-right:5em></span> **Чепенюк Анастасія** [Пошта: cepenukn@gmail.com, [Телеграм](https://t.me/nstchpnk)]
+
+*студентка 2-го курсу, групи ІО-23*<span padding-right:5em></span> **Бадюлько Ірина** [Пошта: badiulkoiryna@gmail.com, [Телеграм](https://t.me/aposijl)]
+
+*студент 2-го курсу, групи ІО-23*<span padding-right:5em></span> **Бичкар Назар** [Пошта: mezismezis@gmail.com, [Телеграм](https://t.me/jwnsn)]
+
+*студентка 2-го курсу, групи ІО-23*<span padding-right:5em></span> **Козак Яна** [Пошта: yanakozak170@gmail.com, [Телеграм](https://t.me/kozak_yana)]
+
+*студент 2-го курсу, групи ІО-23*<span padding-right:5em></span> **Пацай Дмитро** [Пошта: dbpacaj@gmail.com, [Телеграм](https://t.me/telegadimki)]
 
 **Керівник**
 
